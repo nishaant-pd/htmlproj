@@ -1,0 +1,80 @@
+body {
+  background-color: #edc864;
+  font-family: Georgia, Verdana, sans-serif;
+}
+
+
+/*the map*/
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.human_castle_map {
+  position: absolute;
+  top: 170px;
+  left: 930px;
+}
+.shooting_range_map {
+  position: absolute;
+  top: 170px;
+  left: 1280px;
+}
+.orc_camp_map {
+  position: absolute;
+  top: 175px;
+  left: 285px;
+}
+.flying_ship_map {
+  position: absolute;
+  top: 340px;
+  right: 100px;
+}
+.elf_castle_map {
+  position: absolute;
+  bottom: 150px;
+  left: 380px;
+}
+
+
+/*human castle elements*/
+.king_audio {
+  position: absolute;
+  top: 290px;
+  left: 880px;
+}
+
+/*orc camp elements*/
+.orc_one_audio {
+  position: absolute;
+  top: 430px;
+  left: 935px;
+}
+.orc_two_audio {
+  position: absolute;
+  top: 430px;
+  left: 360px;
+}
+
+/*elf castle elements*/
+.crystal {
+  position: absolute;
+  top: 425px;
+  left: 870px;
+}
+.head_elf_audio {
+  position: absolute;
+  top: 250px;
+  left: 98px;
+}
+.sleeping_elf_audio {
+  position: absolute;
+  top: 430px;
+  left: 1304px;
+}
+
+.captain_audio {
+  position: absolute;
+  top: 250px;
+  left: 705px;
+}

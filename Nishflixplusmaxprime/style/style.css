@@ -1,0 +1,24 @@
+body {
+	background-color: #30303d;
+	font-family: Georgia, Verdana, sans-serif;
+}
+
+#logo {
+	display: block;
+	padding-left: 545px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#back_button {
+	display: block;
+	background-color: #131517;
+
+}
+
+#video_player {
+	display: block;
+	padding-left: 450px;
+	padding-top: 15px;
+	padding-bottom: 15px;	
+}
